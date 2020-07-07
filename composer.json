@@ -1,5 +1,5 @@
 {
-    "name": "asifm42/scorm-cloud-laravel",
+    "name": "CThomas87/scorm-cloud-laravel",
     "description": "Provides a ScormCloud API gateway for Laravel applications",
     "license": "MIT",
     "authors": [
