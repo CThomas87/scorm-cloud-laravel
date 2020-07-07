@@ -22,7 +22,7 @@
     },
     "autoload": {
         "psr-4": {
-            "AsifM42\\ScormCloudGateway\\": "src/"
+            "CThomas87\\ScormCloudGateway\\": "src/"
         },
         "files": [
             "src/helpers.php"
@@ -31,10 +31,10 @@
     "extra": {
         "laravel": {
             "providers": [
-                "AsifM42\\ScormCloudGateway\\ScormCloudServiceProvider"
+                "CThomas87\\ScormCloudGateway\\ScormCloudServiceProvider"
             ],
             "aliases": {
-                "ScormCloud": "AsifM42\\ScormCloudGateway\\ScormCloud"
+                "ScormCloud": "CThomas87\\ScormCloudGateway\\ScormCloud"
             }
         }
     }

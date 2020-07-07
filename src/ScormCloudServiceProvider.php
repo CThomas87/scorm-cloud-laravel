@@ -1,6 +1,6 @@
 <?php
 
-namespace AsifM42\ScormCloudGateway;
+namespace CThomas87\ScormCloudGateway;
 
 use Illuminate\Support\ServiceProvider;
 
